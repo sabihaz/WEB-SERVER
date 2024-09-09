@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Computer Science</title>
+    <style>
+        body {
+            font-family: Times new roman, sans-serif;
+            background-color: #f0f0f0;
+            margin: 22px;
+        }
+        p {
+            font-size: 19px;
+            color: #333;
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 9px;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        Web Technology, Data Structures, Python programming.
+    </p>
+</body>
+</html>
